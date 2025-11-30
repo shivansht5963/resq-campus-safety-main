@@ -39,11 +39,17 @@ const Hero = () => {
             
             <div className="flex flex-wrap gap-4">
               <Button variant="hero" size="lg">
-                Starting Soon
+                Developing soon
               </Button>
-              <Button variant="outline" size="lg" onClick={scrollToAbout}>
-                Learn More
-              </Button>
+              <a 
+                href="https://www.figma.com/design/s4op4cFuUuEeLtxVuRRsHx/Untitled?node-id=0-1&p=f" 
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <Button variant="outline" size="lg">
+                  Figma Design
+                </Button>
+              </a>
             </div>
           </div>
           
