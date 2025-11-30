@@ -15,10 +15,7 @@ const About = () => {
             </h2>
             
             <p className="text-lg text-muted-foreground leading-relaxed max-w-3xl mx-auto">
-              ResQ is a real-time emergency reporting and AI detection system for college campuses. 
-              It offers instant reporting, BLE beacon indoor location, ESP32 panic kiosks, OpenCV 
-              fight/harassment detection, high-decibel voice triggers ("help", "bachao"), and a live 
-              response dashboard for campus security.
+              ResQ is a real-time emergency reporting and AI detection system for college campuses. It includes a Student App for instant SOS reporting, photo/video evidence, and precise GPS + BLE indoor location. The system also features ESP32 panic kiosks, OpenCV fight/harassment detection, high-decibel voice alerts (“help”, “bachao”), and a live security dashboard for rapid campus response.
             </p>
           </div>
         </div>
