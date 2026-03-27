@@ -10,7 +10,7 @@ const Header = () => {
           </div>
           
           <Button variant="hero" size="lg">
-            Developing soon
+            Developed
           </Button>
         </div>
       </div>

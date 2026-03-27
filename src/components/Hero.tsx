@@ -39,7 +39,7 @@ const Hero = () => {
             
             <div className="flex flex-wrap gap-4">
               <Button variant="hero" size="lg">
-                Developing soon
+                Developed
               </Button>
               <a 
                 href="https://www.figma.com/design/s4op4cFuUuEeLtxVuRRsHx/Untitled?node-id=0-1&p=f" 
