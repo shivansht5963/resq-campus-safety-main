@@ -5,8 +5,8 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex items-center gap-3">
             <img 
-              src="https://apvcouncil.in/codecratz/2.png" 
-              alt="Codecratz Logo" 
+              src="https://apvcouncil.in/TECHNOFEST/2.png" 
+              alt="" 
               className="h-10 w-auto"
             />
             <span className="text-lg font-bold text-foreground">ResQ</span>
@@ -14,7 +14,7 @@ const Footer = () => {
           
           <div className="text-center">
             <p className="text-muted-foreground font-medium">
-              Building for Codecratz Hackathon 2025
+              build for TECHNOFEST Hackathon 2025
             </p>
           </div>
           

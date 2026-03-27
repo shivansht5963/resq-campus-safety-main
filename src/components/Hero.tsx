@@ -14,11 +14,11 @@ const Hero = () => {
           <div className="space-y-8 animate-fade-in">
             <div className="inline-flex items-center gap-3">
               <span className="px-4 py-2 bg-secondary text-secondary-foreground border-3 border-border rounded-full text-sm font-semibold">
-                Building for Codecratz
+                build for TECHNOFEST
               </span>
               <img 
-                src="https://apvcouncil.in/codecratz/2.png" 
-                alt="Codecratz Logo" 
+                src="https://apvcouncil.in/TECHNOFEST/2.png" 
+                alt="" 
                 className="h-10 w-auto"
               />
             </div>

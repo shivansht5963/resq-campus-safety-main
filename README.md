@@ -52,7 +52,7 @@ npm run dev
 
 ## What technologies are used for this project?
 
-This project is Building with:
+This project is buildwith:
 
 - Vite
 - TypeScript
